@@ -1,3 +1,26 @@
 /* Gonzalo Garcia Castro UO294665*/
 /* Estilos generales del proyecto MotoGP-Desktop*/ 
+/*Colores a usar: #050a30 Dark blue,    #000c66 Navy blue,      #0000ff Blue,       #7ec8e3 Baby Blue */
 
+/* Especificidad (0,0,1)*/
+body{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    background-color: #f9f6f0;
+    color: #6f5b3e;
+}
+
+/* Especificidad (0,0,1)*/
+header{
+    /*Color de texto está heredado de body en estilo.css, el contraste cumple el estándar*/
+    background-color: #c4ae78;
+}
+
+/* Especificidad (0,0,2)*/
+h1 > a{
+    color: #171515;
+}
+
+/* Especificidad (0,0,2)*/
+nav > a{
+    color: #171515;
+}
