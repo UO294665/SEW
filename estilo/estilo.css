@@ -11,16 +11,91 @@ body{
 
 /* Especificidad (0,0,1)*/
 header{
-    /*Color de texto está heredado de body en estilo.css, el contraste cumple el estándar*/
-    background-color: #c4ae78;
+    background-color: #c4ae78; /*Color de texto está heredado de body en estilo.css, el contraste cumple el estándar*/
+}
+
+/* Especificidad (0,0,2)*/
+header a{
+    text-decoration: none;
+}
+
+/* Especificidad (0,0,2)*/
+section > p{
+    margin: 0.5em;
 }
 
 /* Especificidad (0,0,2)*/
 h1 > a{
-    color: #171515;
+    color: #171515; /*Color de fondo está heredado de header en estilo.css, el contraste cumple el estándar*/
 }
 
 /* Especificidad (0,0,2)*/
 nav > a{
+    color: #171515; /*Color de fondo está heredado de header en estilo.css, el contraste cumple el estándar*/
+}
+
+/* Especificidad (0,1,0)*/
+.active{
+    color: #6f5b3e; /*Color de fondo está heredado de header en estilo.css, el contraste cumple el estándar*/
+}
+
+/*Especificidad (0,0,2)*/
+header + p{
+    font-size: 0.8em;
+}
+
+/* Especificidad (0,0,2)*/
+main > section{
+    border: 1px solid #c4ae78;
+    border-radius: 8px;
+    background-color: #f4f1ea; /* sutil contraste sobre el fondo */
+}
+
+/*Especificidad (0,0,1)*/
+h2, h3{
     color: #171515;
+}
+
+/*Especificidad (0,0,2)*/
+ul li, ol li {
+    line-height: 1.5;
+}
+
+/*Especificidad (0,0,1)*/
+dl {
+    background-color: #f4f1ea; /* sutil contraste sobre el fondo */
+    border: 1px solid #c4ae78;
+    border-radius: 8px;
+}
+
+/*Especificidad (0,0,1)*/
+dt {
+    font-weight: bold;
+    color: #171515;  /*Color de fondo está heredado de dl en estilo.css, el contraste cumple el estándar*/
+}
+
+/*Especificidad (0,0,1)*/
+dd {
+    color: #6f5b3e; /*Color de fondo está heredado de dl en estilo.css, el contraste cumple el estándar*/
+}
+
+/*Especificidad (0,0,1)*/
+caption {
+    font-weight: bold;
+    color: #171515;
+}
+
+/*Especificidad (0,0,1)*/
+th, td {
+    border: 1px solid #c4ae78;
+}
+
+/*Especificidad (0,0,1)*/
+th {
+    background-color: #f4f1ea; /* fondo principal */
+}
+
+/*Especificidad (0,0,1)*/
+td {
+    background-color: #ffffff;
 }
