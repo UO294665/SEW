@@ -1,0 +1,32 @@
+/* Gonzalo Garcia Castro UO294665*/
+/* Estilos de posicionamiento del juego de cartas del proyecto MotoGP-Desktop*/ 
+
+main {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr); /* 4 columnas */
+	width: fit-content;
+	margin: auto;
+	gap: 1em; 
+	margin-bottom: 2em;
+}
+
+h2{
+	text-align: center;
+	grid-column-start: 1;
+	grid-column-end: -1;
+}
+
+main > p{
+	text-align: center;
+	grid-column-start: 1;
+	grid-column-end: -1;
+}
+
+@media (min-width: 320px) and (max-width: 799px){
+    main{
+		grid-template-columns: repeat(2, 1fr); /*Redefinición para que la visualización en dispositivos mas pequeños sea en 2 columnas*/
+	}
+	main article{
+		width: auto;
+	}
+}

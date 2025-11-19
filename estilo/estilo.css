@@ -36,7 +36,8 @@ nav > a{
 
 /* Especificidad (0,1,0)*/
 .active{
-    color: #6f5b3e; /*Color de fondo está heredado de header en estilo.css, el contraste cumple el estándar*/
+    color: #f4f1ea;
+    background-color: #6f5b3e;
 }
 
 /*Especificidad (0,0,2)*/
