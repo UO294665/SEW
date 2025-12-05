@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Origen</name>
+      <description>Punto de inicio del circuito</description>
+      <Point>
+        <coordinates>101.738466,2.760760,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 1</name>
+      <description>Sector 1, Distancia: 626m</description>
+      <Point>
+        <coordinates>101.7328,2.7603,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 2</name>
+      <description>Sector 1, Distancia: 38m</description>
+      <Point>
+        <coordinates>101.7325,2.7606,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 3</name>
+      <description>Sector 1, Distancia: 32m</description>
+      <Point>
+        <coordinates>101.732708,2.760846,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 4</name>
+      <description>Sector 1, Distancia: 31m</description>
+      <Point>
+        <coordinates>101.732970,2.760933,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 5</name>
+      <description>Sector 1, Distancia: 61m</description>
+      <Point>
+        <coordinates>101.7333333,2.7608333,35</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 6</name>
+      <description>Sector 1, Distancia: 42m</description>
+      <Point>
+        <coordinates>101.733522,2.761222,34</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 7</name>
+      <description>Sector 1, Distancia: 71m</description>
+      <Point>
+        <coordinates>101.7330556,2.7616667,30</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 8</name>
+      <description>Sector 1, Distancia: 139m</description>
+      <Point>
+        <coordinates>101.7330556,2.7627778,24</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 9</name>
+      <description>Sector 1, Distancia: 109m</description>
+      <Point>
+        <coordinates>101.7336111,2.7636111,22</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 10</name>
+      <description>Sector 2, Distancia: 217m</description>
+      <Point>
+        <coordinates>101.735641,2.764410,28</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 11</name>
+      <description>Sector 2, Distancia: 215m</description>
+      <Point>
+        <coordinates>101.737411,2.765166,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 12</name>
+      <description>Sector 2, Distancia: 28m</description>
+      <Point>
+        <coordinates>101.737633,2.765050,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 13</name>
+      <description>Sector 2, Distancia: 265m</description>
+      <Point>
+        <coordinates>101.7380556,2.7625000,39</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 14</name>
+      <description>Sector 2, Distancia: 73m</description>
+      <Point>
+        <coordinates>101.7386111,2.7622222,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 15</name>
+      <description>Sector 2, Distancia: 82m</description>
+      <Point>
+        <coordinates>101.7391667,2.7622222,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 16</name>
+      <description>Sector 2, Distancia: 78m</description>
+      <Point>
+        <coordinates>101.7397222,2.7625000,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 17</name>
+      <description>Sector 2, Distancia: 83m</description>
+      <Point>
+        <coordinates>101.740617,2.762955,38</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 18</name>
+      <description>Sector 2, Distancia: 71m</description>
+      <Point>
+        <coordinates>101.7411111,2.7627778,39</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 19</name>
+      <description>Sector 2, Distancia: 235m</description>
+      <Point>
+        <coordinates>101.74250,2.76111,39</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 20</name>
+      <description>Sector 3, Distancia: 80m</description>
+      <Point>
+        <coordinates>101.7430556,2.7605556,39</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 21</name>
+      <description>Sector 2, Distancia: 109m</description>
+      <Point>
+        <coordinates>101.7425000,2.7597222,38</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 22</name>
+      <description>Sector 2, Distancia: 464m</description>
+      <Point>
+        <coordinates>101.738517,2.759316,34</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 23</name>
+      <description>Sector 2, Distancia: 18m</description>
+      <Point>
+        <coordinates>101.738381,2.759220,34</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 24</name>
+      <description>Sector 2, Distancia: 25m</description>
+      <Point>
+        <coordinates>101.738422,2.758989,35</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 25</name>
+      <description>Sector 2, Distancia: 47m</description>
+      <Point>
+        <coordinates>101.738797,2.758786,38</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 26</name>
+      <description>Sector 3, Distancia: 59m</description>
+      <Point>
+        <coordinates>101.739197,2.758434,41</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 27</name>
+      <description>Sector 3, Distancia: 109m</description>
+      <Point>
+        <coordinates>101.739283,2.757442,44</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 28</name>
+      <description>Sector 3, Distancia: 119m</description>
+      <Point>
+        <coordinates>101.738640,2.756586,44</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 29</name>
+      <description>Sector 3, Distancia: 320m</description>
+      <Point>
+        <coordinates>101.736326,2.758310,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 30</name>
+      <description>Sector 3, Distancia: 66m</description>
+      <Point>
+        <coordinates>101.735748,2.758177,35</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 31</name>
+      <description>Sector 3, Distancia: 109m</description>
+      <Point>
+        <coordinates>101.734832,2.757838,33</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 32</name>
+      <description>Sector 4, Distancia: 109m</description>
+      <Point>
+        <coordinates>101.733880,2.758091,34</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 33</name>
+      <description>Sector 4, Distancia: 87m</description>
+      <Point>
+        <coordinates>101.733587,2.758811,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 34</name>
+      <description>Sector 4, Distancia: 42m</description>
+      <Point>
+        <coordinates>101.733924,2.758982,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 35</name>
+      <description>Sector 4, Distancia: 869m</description>
+      <Point>
+        <coordinates>101.741601,2.760436,37</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 36</name>
+      <description>Sector 4, Distancia: 55m</description>
+      <Point>
+        <coordinates>101.741501,2.760923,38</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tramo 37</name>
+      <description>Sector 4, Distancia: 337m</description>
+      <Point>
+        <coordinates>101.738466,2.760760,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </Point>
+    </Placemark>
+    <name>Circuito</name>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellation>1</tessellation>
+        <coordinates>101.738466,2.760760,36 101.7328,2.7603,37 101.7325,2.7606,37 101.732708,2.760846,37 101.732970,2.760933,37 101.7333333,2.7608333,35 101.733522,2.761222,34 101.7330556,2.7616667,30 101.7330556,2.7627778,24 101.7336111,2.7636111,22 101.735641,2.764410,28 101.737411,2.765166,36 101.737633,2.765050,37 101.7380556,2.7625000,39 101.7386111,2.7622222,37 101.7391667,2.7622222,36 101.7397222,2.7625000,37 101.740617,2.762955,38 101.7411111,2.7627778,39 101.74250,2.76111,39 101.7430556,2.7605556,39 101.7425000,2.7597222,38 101.738517,2.759316,34 101.738381,2.759220,34 101.738422,2.758989,35 101.738797,2.758786,38 101.739197,2.758434,41 101.739283,2.757442,44 101.738640,2.756586,44 101.736326,2.758310,36 101.735748,2.758177,35 101.734832,2.757838,33 101.733880,2.758091,34 101.733587,2.758811,36 101.733924,2.758982,37 101.741601,2.760436,37 101.741501,2.760923,38 101.738466,2.760760,36 101.738466,2.760760,36</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>5</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

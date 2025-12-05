@@ -34,10 +34,10 @@ class Ciudad {
             dataType: "json",
             url: "https://archive-api.open-meteo.com/v1/archive?latitude=2.76056&longitude=101.73750&start_date=2025-10-26&end_date=2025-10-26&hourly=temperature_2m,apparent_temperature,precipitation,relative_humidity_2m,windspeed_10m,winddirection_10m&daily=sunrise,sunset&timezone=Asia/Kuala_Lumpur",
             method: "GET",
-            success: (data) => {
+            success: function(data) {
                 this.procesarJSONCarrera(data);
                 this.getMeteorologiaEntrenos();
-            }
+            }.bind(this)
         });
     }
 
@@ -81,9 +81,9 @@ class Ciudad {
         $.ajax({
             url: "https://archive-api.open-meteo.com/v1/archive?latitude=2.76056&longitude=101.73750&start_date=2025-10-23&end_date=2025-10-25&hourly=temperature_2m,precipitation,relative_humidity_2m,windspeed_10m",
             method: "GET",
-            success: (data) => {
+            success: function(data) {
                 this.procesarJSONEntrenos(data);
-            }
+            }.bind(this)
         })
     }
 

@@ -12,10 +12,9 @@ class Carrusel{
             dataType:"json",
             url: "https://api.flickr.com/services/feeds/photos_public.gne?format=json&tags=motoGP&jsoncallback=?",
             method: "GET",
-            success: (datos) => {
+            success: function(datos) {
                 this.procesarJSONFotografias(datos);
-            }
-
+            }.bind(this)
         });
     }
 

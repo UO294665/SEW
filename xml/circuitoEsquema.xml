@@ -26,8 +26,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <video>sepang-1.mp4</video>
         </videos>
         <origen>
-            <latitud unidad = "grados">2.76056</latitud>
-            <longitud unidad = "grados">101.73750</longitud>
+            <latitud unidad = "grados">2.760760</latitud>
+            <longitud unidad = "grados">101.738466</longitud>
             <altitud unidad = "metros">36</altitud>
         </origen>
         <tramos>
@@ -52,8 +52,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">32</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.760833</latitud>
-                    <longitud unidad = "grados">101.732500</longitud>
+                    <latitud unidad = "grados">2.760846</latitud>
+                    <longitud unidad = "grados">101.732708</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
                 <sector>1</sector>
@@ -61,8 +61,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">31</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7608333</latitud>
-                    <longitud unidad = "grados">101.7327778</longitud>
+                    <latitud unidad = "grados">2.760933</latitud>
+                    <longitud unidad = "grados">101.732970</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
                 <sector>1</sector>
@@ -79,8 +79,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">42</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7611111</latitud>
-                    <longitud unidad = "grados">101.7333333</longitud>
+                    <latitud unidad = "grados">2.761222</latitud>
+                    <longitud unidad = "grados">101.733522</longitud>
                     <altitud unidad = "metros">34</altitud>
                 </coordenadas>
                 <sector>1</sector>
@@ -115,23 +115,32 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">217</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7641667</latitud>
-                    <longitud unidad = "grados">101.7355556</longitud>
+                    <latitud unidad = "grados">2.764410</latitud>
+                    <longitud unidad = "grados">101.735641</longitud>
                     <altitud unidad = "metros">28</altitud>
                 </coordenadas>
-                <sector>1</sector>
+                <sector>2</sector>
             </tramo>
             <tramo>
-                <distancia unidad="metros">228</distancia>
+                <distancia unidad="metros">215</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7650000</latitud>
-                    <longitud unidad = "grados">101.7375000</longitud>
+                    <latitud unidad = "grados">2.765166</latitud>
+                    <longitud unidad = "grados">101.737411</longitud>
+                    <altitud unidad = "metros">36</altitud>
+                </coordenadas>
+                <sector>2</sector>
+            </tramo>
+            <tramo>
+                <distancia unidad="metros">28</distancia>
+                <coordenadas>
+                    <latitud unidad = "grados">2.765050</latitud>
+                    <longitud unidad = "grados">101.737633</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
                 <sector>2</sector>
             </tramo>
             <tramo>
-                <distancia unidad="metros">278</distancia>
+                <distancia unidad="metros">265</distancia>
                 <coordenadas>
                     <latitud unidad = "grados">2.7625000</latitud>
                     <longitud unidad = "grados">101.7380556</longitud>
@@ -169,8 +178,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">83</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7627778</latitud>
-                    <longitud unidad = "grados">101.7405555</longitud>
+                    <latitud unidad = "grados">2.762955</latitud>
+                    <longitud unidad = "grados">101.740617</longitud>
                     <altitud unidad = "metros">38</altitud>
                 </coordenadas>
                 <sector>2</sector>
@@ -185,13 +194,22 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
                 <sector>2</sector>
             </tramo>
             <tramo>
-                <distancia unidad="metros">314</distancia>
+                <distancia unidad="metros">235</distancia>
+                <coordenadas>
+                    <latitud unidad = "grados">2.76111</latitud>
+                    <longitud unidad = "grados">101.74250</longitud>
+                    <altitud unidad = "metros">39</altitud>
+                </coordenadas>
+                <sector>2</sector>
+            </tramo>
+            <tramo>
+                <distancia unidad="metros">80</distancia>
                 <coordenadas>
                     <latitud unidad = "grados">2.7605556</latitud>
                     <longitud unidad = "grados">101.7430556</longitud>
                     <altitud unidad = "metros">39</altitud>
                 </coordenadas>
-                <sector>2</sector>
+                <sector>3</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">109</distancia>
@@ -203,19 +221,28 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
                 <sector>2</sector>
             </tramo>
             <tramo>
-                <distancia unidad="metros">484</distancia>
+                <distancia unidad="metros">464</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7591667</latitud>
-                    <longitud unidad = "grados">101.7383333</longitud>
+                    <latitud unidad = "grados">2.759316</latitud>
+                    <longitud unidad = "grados">101.738517</longitud>
                     <altitud unidad = "metros">34</altitud>
                 </coordenadas>
                 <sector>2</sector>
             </tramo>
             <tramo>
-                <distancia unidad="metros">29</distancia>
+                <distancia unidad="metros">18</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7588889</latitud>
-                    <longitud unidad = "grados">101.7383333</longitud>
+                    <latitud unidad = "grados">2.759220</latitud>
+                    <longitud unidad = "grados">101.738381</longitud>
+                    <altitud unidad = "metros">34</altitud>
+                </coordenadas>
+                <sector>2</sector>
+            </tramo>
+            <tramo>
+                <distancia unidad="metros">25</distancia>
+                <coordenadas>
+                    <latitud unidad = "grados">2.758989</latitud>
+                    <longitud unidad = "grados">101.738422</longitud>
                     <altitud unidad = "metros">35</altitud>
                 </coordenadas>
                 <sector>2</sector>
@@ -223,8 +250,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">47</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7586111</latitud>
-                    <longitud unidad = "grados">101.7386111</longitud>
+                    <latitud unidad = "grados">2.758786</latitud>
+                    <longitud unidad = "grados">101.738797</longitud>
                     <altitud unidad = "metros">38</altitud>
                 </coordenadas>
                 <sector>2</sector>
@@ -232,8 +259,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">59</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7583333</latitud>
-                    <longitud unidad = "grados">101.7391666</longitud>
+                    <latitud unidad = "grados">2.758434</latitud>
+                    <longitud unidad = "grados">101.739197</longitud>
                     <altitud unidad = "metros">41</altitud>
                 </coordenadas>
                 <sector>3</sector>
@@ -241,8 +268,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">109</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7572222</latitud>
-                    <longitud unidad = "grados">101.7391666</longitud>
+                    <latitud unidad = "grados">2.757442</latitud>
+                    <longitud unidad = "grados">101.739283</longitud>
                     <altitud unidad = "metros">44</altitud>
                 </coordenadas>
                 <sector>3</sector>
@@ -250,8 +277,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">119</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7563889</latitud>
-                    <longitud unidad = "grados">101.7386111</longitud>
+                    <latitud unidad = "grados">2.756586</latitud>
+                    <longitud unidad = "grados">101.738640</longitud>
                     <altitud unidad = "metros">44</altitud>
                 </coordenadas>
                 <sector>3</sector>
@@ -259,8 +286,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">320</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7580556</latitud>
-                    <longitud unidad = "grados">101.7361111</longitud>
+                    <latitud unidad = "grados">2.758310</latitud>
+                    <longitud unidad = "grados">101.736326</longitud>
                     <altitud unidad = "metros">36</altitud>
                 </coordenadas>
                 <sector>3</sector>
@@ -268,8 +295,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">66</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7580556</latitud>
-                    <longitud unidad = "grados">101.7355556</longitud>
+                    <latitud unidad = "grados">2.758177</latitud>
+                    <longitud unidad = "grados">101.735748</longitud>
                     <altitud unidad = "metros">35</altitud>
                 </coordenadas>
                 <sector>3</sector>
@@ -277,8 +304,8 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">109</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7577778</latitud>
-                    <longitud unidad = "grados">101.7347222</longitud>
+                    <latitud unidad = "grados">2.757838</latitud>
+                    <longitud unidad = "grados">101.734832</longitud>
                     <altitud unidad = "metros">33</altitud>
                 </coordenadas>
                 <sector>3</sector>
@@ -286,64 +313,64 @@ xmlns:xsi="http://www.w5.org/2001/XMLSchema-instance" xmlns="http://www.uniovi.e
             <tramo>
                 <distancia unidad="metros">109</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7580556</latitud>
-                    <longitud unidad = "grados">101.7336111</longitud>
+                    <latitud unidad = "grados">2.758091</latitud>
+                    <longitud unidad = "grados">101.733880</longitud>
                     <altitud unidad = "metros">34</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">87</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7586111</latitud>
-                    <longitud unidad = "grados">101.7333333</longitud>
+                    <latitud unidad = "grados">2.758811</latitud>
+                    <longitud unidad = "grados">101.733587</longitud>
                     <altitud unidad = "metros">36</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">42</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7588889</latitud>
-                    <longitud unidad = "grados">101.7338889</longitud>
+                    <latitud unidad = "grados">2.758982</latitud>
+                    <longitud unidad = "grados">101.733924</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">869</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7602778</latitud>
-                    <longitud unidad = "grados">101.7413889</longitud>
+                    <latitud unidad = "grados">2.760436</latitud>
+                    <longitud unidad = "grados">101.741601</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">55</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7608333</latitud>
-                    <longitud unidad = "grados">101.7413889</longitud>
+                    <latitud unidad = "grados">2.760923</latitud>
+                    <longitud unidad = "grados">101.741501</longitud>
                     <altitud unidad = "metros">38</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">337</distancia>
                 <coordenadas>
-                    <latitud unidad = "grados">2.7605556</latitud>
-                    <longitud unidad = "grados">101.7383333</longitud>
+                    <latitud unidad = "grados">2.760760</latitud>
+                    <longitud unidad = "grados">101.738466</longitud>
                     <altitud unidad = "metros">36</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
         </tramos>
         <vencedor>Alex Márquez</vencedor>
         <tiempo_carrera>40:09.249</tiempo_carrera>
         <clasificacion>
-            <piloto posicion="1">Alex Márquez</piloto>
-            <piloto posicion="2">Pedro Acosta</piloto>
-            <piloto posicion="3">Joan Mir</piloto>
+            <piloto posicion="1">Marc Márquez</piloto>
+            <piloto posicion="2">Álex Márquez</piloto>
+            <piloto posicion="3">Bezzechi</piloto>
         </clasificacion>
     </circuito>
 </circuitos>

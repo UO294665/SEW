@@ -50,18 +50,17 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="fecha" type="xs:date" />
+	<xs:simpleType name="formatoHora">
+		<xs:restriction base="xs:NMTOKEN">
+			<xs:enumeration value="12"/>
+			<xs:enumeration value="24"/>
+		</xs:restriction>
+	</xs:simpleType>
 	<xs:element name="hora">
 		<xs:complexType>
 			<xs:simpleContent>
 				<xs:extension base="xs:time">
-					<xs:attribute default="24" name="formato">
-						<xs:simpleType>
-							<xs:restriction base="xs:NMTOKEN">
-								<xs:enumeration value="12" />
-								<xs:enumeration value="24" />
-							</xs:restriction>
-						</xs:simpleType>
-					</xs:attribute>
+					<xs:attribute name="formato" type="formatoHora" default="24"/>
 				</xs:extension>
 			</xs:simpleContent>
 		</xs:complexType>
@@ -164,7 +163,13 @@
 			</xs:simpleContent>
 		</xs:complexType>
 	</xs:element>
-	<xs:element name="sector" type="xs:positiveInteger" />
+	<xs:simpleType name="tipoSector">
+		<xs:restriction base="xs:positiveInteger">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="4"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="sector" type="tipoSector"/>
 	<xs:element name="vencedor" type="xs:string" />
 	<xs:element name="tiempo_carrera" type="xs:duration" />
 	<xs:element name="clasificacion">

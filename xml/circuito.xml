@@ -118,7 +118,7 @@
                     <longitud unidad = "grados">101.7355556</longitud>
                     <altitud unidad = "metros">28</altitud>
                 </coordenadas>
-                <sector>1</sector>
+                <sector>2</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">228</distancia>
@@ -184,13 +184,22 @@
                 <sector>2</sector>
             </tramo>
             <tramo>
-                <distancia unidad="metros">314</distancia>
+                <distancia unidad="metros">235</distancia>
+                <coordenadas>
+                    <latitud unidad = "grados">2.76111</latitud>
+                    <longitud unidad = "grados">101.74250</longitud>
+                    <altitud unidad = "metros">39</altitud>
+                </coordenadas>
+                <sector>2</sector>
+            </tramo>
+            <tramo>
+                <distancia unidad="metros">80</distancia>
                 <coordenadas>
                     <latitud unidad = "grados">2.7605556</latitud>
                     <longitud unidad = "grados">101.7430556</longitud>
                     <altitud unidad = "metros">39</altitud>
                 </coordenadas>
-                <sector>2</sector>
+                <sector>3</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">109</distancia>
@@ -289,7 +298,7 @@
                     <longitud unidad = "grados">101.7336111</longitud>
                     <altitud unidad = "metros">34</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">87</distancia>
@@ -298,7 +307,7 @@
                     <longitud unidad = "grados">101.7333333</longitud>
                     <altitud unidad = "metros">36</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">42</distancia>
@@ -307,7 +316,7 @@
                     <longitud unidad = "grados">101.7338889</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">869</distancia>
@@ -316,7 +325,7 @@
                     <longitud unidad = "grados">101.7413889</longitud>
                     <altitud unidad = "metros">37</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">55</distancia>
@@ -325,7 +334,7 @@
                     <longitud unidad = "grados">101.7413889</longitud>
                     <altitud unidad = "metros">38</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
             <tramo>
                 <distancia unidad="metros">337</distancia>
@@ -334,15 +343,15 @@
                     <longitud unidad = "grados">101.7383333</longitud>
                     <altitud unidad = "metros">36</altitud>
                 </coordenadas>
-                <sector>3</sector>
+                <sector>4</sector>
             </tramo>
         </tramos>
-        <vencedor>Marc</vencedor>
-        <tiempo_carrera>1:12:03</tiempo_carrera>
+        <vencedor>Alex Márquez</vencedor>
+        <tiempo_carrera>40:09.249</tiempo_carrera>
         <clasificacion>
-            <piloto posicion="1">Marc</piloto>
-            <piloto posicion="2">Fabio</piloto>
-            <piloto posicion="3">Viñales</piloto>
+            <piloto posicion="1">Alex Márquez</piloto>
+            <piloto posicion="2">Pedro Acosta</piloto>
+            <piloto posicion="3">Joan Mir</piloto>
         </clasificacion>
     </circuito>
 </circuitos>

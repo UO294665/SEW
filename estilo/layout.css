@@ -89,6 +89,12 @@ th, td {
     text-align: left;
 }
 
+body > main > div {
+    width: 45em;
+    height: 30em;
+}
+
+
 @media (min-width: 320px) and (max-width: 799px){
     header{
         flex-direction: column;
